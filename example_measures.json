@@ -1,11 +1,10 @@
 {
   "mode": "measures",
-  "decisions": [
-    {"id": "M7", "district": "Нура"},
-    {"id": "M8", "district": "Нура"},
-    {"id": "M10", "district": "Нура"},
-    {"id": "M12"},
-    {"id": "M5", "district": "Сарыарка"}
+  "measures": [
+    {"code": "M7", "district": "Нура"},
+    {"code": "M8", "district": "Нура"},
+    {"code": "M10", "district": "Нура"},
+    {"code": "M12"},
+    {"code": "M5", "district": "Сарыарка"}
   ]
 }
-
