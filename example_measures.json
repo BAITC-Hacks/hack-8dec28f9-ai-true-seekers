@@ -1,0 +1,11 @@
+{
+  "mode": "measures",
+  "decisions": [
+    {"id": "M7", "district": "Нура"},
+    {"id": "M8", "district": "Нура"},
+    {"id": "M10", "district": "Нура"},
+    {"id": "M12"},
+    {"id": "M5", "district": "Сарыарка"}
+  ]
+}
+

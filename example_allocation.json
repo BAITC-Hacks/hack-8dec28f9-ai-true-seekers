@@ -1,0 +1,11 @@
+{
+  "mode": "allocations",
+  "allocation": {
+    "transport": 25,
+    "greening": 15,
+    "social": 25,
+    "safety": 15,
+    "services": 20
+  }
+}
+
