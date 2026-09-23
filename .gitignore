@@ -1,0 +1,18 @@
+# Secrets and local configuration
+.env
+
+# Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Editor / OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Packaged download; source files are versioned instead
+*.zip
